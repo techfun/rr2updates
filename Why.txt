@@ -1,0 +1,1 @@
+Updates from https://forums.flaregames.com/forum/139-official-announcements.xml/ for use in a webhook for Discord
